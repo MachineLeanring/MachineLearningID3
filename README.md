@@ -37,4 +37,6 @@ OutLook
 -   http://blog.csdn.net/acdreamers/article/details/44661149
 -   http://www.cnblogs.com/leoo2sk/archive/2010/09/19/decision-tree.html
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　本人CSDN博客 [点击链接](http://blog.csdn.net/lemon_tree12138)
+-----------------------------------------
+
+本代码博客地址： [决策树之 ID3 算法](http://blog.csdn.net/lemon_tree12138/article/details/51837983)
